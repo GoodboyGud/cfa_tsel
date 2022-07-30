@@ -1,3 +1,4 @@
+---
 proxy-providers:
   PG_HOWDY:
     type: file
