@@ -1,0 +1,240 @@
+proxies:
+  - name: GO-HE1
+    server: cdn.onlymega.com
+    server: api.fastworldpay.com
+    port: 443
+    type: trojan
+    password: 8fd125d0-0998-11ed-a6ad-1239d0255272
+    skip-cert-verify: true
+    sni: sg1-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg1-trojan.bonds.id
+    udp: true
+
+  - name: GF-HE1
+    type: trojan
+    server: sg1-trojan.bonds.id
+    port: 443
+    password: 8fd125d0-0998-11ed-a6ad-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: GO-HE1X1
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: 47a798c0-099e-11ed-aeb8-1239d0255272
+    skip-cert-verify: true
+    sni: sg1-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg1-trojan.bonds.id
+    udp: true
+
+  - name: GF-HE1X1
+    type: trojan
+    server: sg1-trojan.bonds.id
+    port: 443
+    password: 47a798c0-099e-11ed-aeb8-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: SG-GO-UPD
+    server: cdn.onlymega.com
+    server: api.fastworldpay.com
+    port: 443
+    type: trojan
+    password: 2cb74b60-0999-11ed-b0fe-1239d0255272
+    skip-cert-verify: true
+    sni: sg8-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg8-trojan.bonds.id
+    udp: true
+
+  - name: SG-GF-UPD
+    type: trojan
+    server: sg8-trojan.bonds.id
+    port: 443
+    password: 2cb74b60-0999-11ed-b0fe-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: SG-GO-UPDX1
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: a134e620-099e-11ed-9f86-1239d0255272
+    skip-cert-verify: true
+    sni: sg8-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg8-trojan.bonds.id
+    udp: true
+
+  - name: SG-GF-UPDX1
+    type: trojan
+    server: sg8-trojan.bonds.id
+    port: 443
+    password: a134e620-099e-11ed-9f86-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: SG-GO-OVH
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: 48249290-0998-11ed-b055-1239d0255272
+    skip-cert-verify: true
+    sni: sgovh-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sgovh-trojan.bonds.id
+    udp: true
+
+  - name: SG-GF-OVH
+    type: trojan
+    server: sgovh-trojan.bonds.id
+    port: 443
+    password: 48249290-0998-11ed-b055-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: SG-GO-OVHX1
+    server: cdn.onlymega.com
+    server: api.fastworldpay.com
+    port: 443
+    type: trojan
+    password: db4a4bd0-099e-11ed-ba39-1239d0255272
+    skip-cert-verify: true
+    sni: sgovh-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sgovh-trojan.bonds.id
+    udp: true
+
+  - name: SG-GF-OVHX1
+    type: trojan
+    server: sgovh-trojan.bonds.id
+    port: 443
+    password: db4a4bd0-099e-11ed-ba39-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: GO-HE2
+    server: cdn.onlymega.com
+    server: api.fastworldpay.com
+    port: 443
+    type: trojan
+    password: b695c950-0998-11ed-bf01-1239d0255272
+    skip-cert-verify: true
+    sni: sg2-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg2-trojan.bonds.id
+    udp: true
+
+  - name: GF-HE2
+    type: trojan
+    server: sg2-trojan.bonds.id
+    port: 443
+    password: b695c950-0998-11ed-bf01-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: ID-GO-JAK
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: 255b8380-0998-11ed-9d14-1239d0255272
+    skip-cert-verify: true
+    sni: id2-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: id2-trojan.bonds.id
+    udp: true
+
+  - name: ID-GF-JAK
+    type: trojan
+    server: id2-trojan.bonds.id
+    port: 443
+    password: 255b8380-0998-11ed-9d14-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: ID-GO-BANT
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: cc016b20-0998-11ed-be65-1239d0255272
+    skip-cert-verify: true
+    sni: id5-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: id5-trojan.bonds.id
+    udp: true
+
+  - name: ID-GF-BANT
+    type: trojan
+    server: id5-trojan.bonds.id
+    port: 443
+    password: cc016b20-0998-11ed-be65-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
+
+  - name: ID-GO-UNI
+    server: cdn.onlymega.com
+    server: zendesk4.grabtaxi.com
+    port: 443
+    type: trojan
+    password: 4487cb60-0999-11ed-b60c-1239d0255272
+    skip-cert-verify: true
+    sni: idtj-uninet.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: idtj-uninet.bonds.id
+    udp: true
+
+  - name: ID-GF-UNI
+    type: trojan
+    server: idtj-uninet.bonds.id
+    port: 443
+    password: 4487cb60-0999-11ed-b60c-1239d0255272
+    udp: true
+    sni: w8.web.whatsapp.com
+    skip-cert-verify: true
