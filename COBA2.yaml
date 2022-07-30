@@ -1,7 +1,7 @@
 proxy-providers:
   PG_HOWDY:
     type: http
-    path: "./HOWDY2.yaml"
+    path: "./proxy_provider/HOWDY2.yaml"
     url: https://raw.githubusercontent.com/GoodboyGud/CFA/main/providers/HOWDY2.yaml
     health-check:
       enable: true
