@@ -1,0 +1,69 @@
+proxies:
+  - name: 🇮🇩 GOH-BANT
+    server: gamemax.prem.my.id
+    port: 443
+    type: trojan
+    password: a3f57d90-0651-11ed-953c-1239d0255272
+    skip-cert-verify: true
+    sni: id5-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: id5-trojan.bonds.id
+    udp: true
+
+  - name: 🇮🇩 GFH-BANT
+    type: trojan
+    server: id5-trojan.bonds.id
+    port: 443
+    password: a3f57d90-0651-11ed-953c-1239d0255272
+    udp: true
+    sni: spotify.com
+    skip-cert-verify: true
+
+  - name: 🇮🇩 HOWDY-UNI
+    server: gamemax.prem.my.id
+    port: 443
+    type: trojan
+    password: 1931dbc0-0652-11ed-987f-1239d0255272
+    skip-cert-verify: true
+    sni: idtj-uninet.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: idtj-uninet.bonds.id
+    udp: true
+
+  - name: 🇮🇩 GFH-UNI
+    type: trojan
+    server: idtj-uninet.bonds.id
+    port: 443
+    password: 1931dbc0-0652-11ed-987f-1239d0255272
+    udp: true
+    sni: spotify.com
+    skip-cert-verify: true
+
+  - name: 🇮🇩 GOH-IKD
+    server: gamemax.prem.my.id
+    port: 443
+    type: trojan
+    password: 30891ba0-0652-11ed-a4c4-1239d0255272
+    skip-cert-verify: true
+    sni: idtj-ikd.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: idtj-ikd.bonds.id
+    udp: true
+
+  - name: 🇮🇩 GFH-IKD
+    type: trojan
+    server: idtj-ikd.bonds.id
+    port: 443
+    password: 30891ba0-0652-11ed-a4c4-1239d0255272
+    udp: true
+    sni: spotify.com
+    skip-cert-verify: true
