@@ -8,13 +8,13 @@
 - [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 
 
-# Support Me
+# SUPPORT ME
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - [Telegram](https://t.me/AfthonPc)
 - [Whatsapp](https://wa.me/6285334821022)
 
 
-# Clash For Android
+# CLASH FOR ANDROID
 
 ## Hal Pertama Yang Perlu Disetting
 
