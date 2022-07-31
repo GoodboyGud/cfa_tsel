@@ -5,7 +5,7 @@
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
 - [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
-- [Cara Update Manual Config Online global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
+- [Cara Update Manual Config Online Global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
 
 
 # Support Me
@@ -45,7 +45,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - Isi kolom **Name** sesuai keinginan anda
 - Pada kolom **URL** isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/Gboy_Global.yaml
-- Opsi **Auto Update** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
+- Opsi **Auto Update** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada disini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import3.jpg" border="0">
 
@@ -76,7 +76,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 
 
-# **Cara Update Manual Config Online global/Rule Mode**
+# **CARA UPDATE MANUAL CONFIG ONLINE GLOBAL/RULE MODE**
 
 1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
