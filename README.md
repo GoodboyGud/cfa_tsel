@@ -95,24 +95,25 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ## 1. Pada saat melakukan update secara manual, pastikan Clash For Android dalam keadaan _Running_ dan terhubung ke internet. Dikarenakan pada tahap ini membutuhkan koneksi untuk menyinkronkan dengan repository update
 
-## 2. Selanjutnya pilih tab **_Profile_**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
+## 2. Selanjutnya pilih tab _Profile_. Hal ini bertujuan untuk update _config utama_ (Tidak termasuk proxy/rule provider)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-## 3. Klik tombol refresh hingga di status profile berubah menjadi **_recently_**(#klik-tombol-refresh)
+## 3. Klik tombol refresh hingga di status profile berubah menjadi _recently_
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
-## 4. Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update **_proxy/rule provider_** (Tidak termasuk config utama)
+## 4. Kembali ke halaman awal lagi dan pilih tab _Providers_. Hal ini bertujuan untuk update **_proxy/rule provider_** (Tidak termasuk config utama)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
 
-## 5. Klik tombol refresh hingga di status providers berubah menjadi **_recently_**
+## 5. Klik tombol refresh hingga di status providers berubah menjadi _recently_
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
-Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
+Ke-empat step diatas perlu dilakukan agar _config utama_ maupun _proxy/rule provider_ dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
 
+## 6. Jika terjadi Kegagalan saat update. Cukup restart aplikasi dan ulangi update manualnya
 
 # THANKS TO
 
