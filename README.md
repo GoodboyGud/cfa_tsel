@@ -39,33 +39,33 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
 
-- Klik tanda tambah pada pojok kanan atas, dan pilih **URL**
+## 2. Klik tanda tambah pada pojok kanan atas, dan pilih **URL**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import2.jpg" border="0">
 
 - Isi kolom **Name** sesuai keinginan anda
 - Pada kolom **URL** isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/Gboy_Global.yaml
-- Opsi **Auto Update** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada **Cara Update Manual Config**
+- Opsi **Auto Update** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import3.jpg" border="0">
 
-- Jangan Lupa untuk menyimpan dengan klik icon di pojok kanan atas
+## 3. Jangan Lupa untuk menyimpan dengan klik icon di pojok kanan atas
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import4.jpg" border="0">
 
-- Setelah disimpan. pastikan profile yang baru dibuat diaktifkan hingga berwarna biru seperti gambar dibawah ini
+## 4. Setelah disimpan. pastikan profile yang baru dibuat diaktifkan hingga berwarna biru seperti gambar dibawah ini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import5.jpg" border="0">
 
-- Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik **Tap to start** hingga berubah menjadi **Running**
+## 5. Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik **Tap to start** hingga berubah menjadi **Running**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active1.jpg" border="0">
 
-- Pastikan Global Proxy tidak terpilih **Direct** dengan cara klik tab **Proxy**
+## 6. Pastikan Global Proxy tidak terpilih **Direct** dengan cara klik tab **Proxy**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active2.jpg" border="0">
 
-- Jika yang terpilih adalah proxy **DIRECT** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
+## 7. Jika yang terpilih adalah proxy **DIRECT** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active3.jpg" border="0">
 
