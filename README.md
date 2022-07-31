@@ -35,7 +35,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # Langkah Pemasangan Config Online Global Mode
 
-- Pada halaman awal aplikasi, pilih tab **Profile**
+## Pada halaman awal aplikasi, pilih tab **Profile**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
 
@@ -82,7 +82,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-2. Klik tombol refresh hingga di status profile menjadi **recently**
+2. Klik tombol refresh hingga di status profile berubah menjadi **recently**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
@@ -90,7 +90,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
 
-4. Klik tombol refresh hingga di status providers menjadi **recently**
+4. Klik tombol refresh hingga di status providers berubah menjadi **recently**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
