@@ -3,9 +3,8 @@
 - [Support Me](#support-me)
 - [Clash For Android](#clash-for-android)
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
-- [Langkah Pemasangan Config Global Mode](#langkah-pemasangan-config-global-mode)
-  - [Config Online](#config-online)
-  - [Config Offline](#config-offline)
+- [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
+- [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
 
 # Support Me
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
@@ -31,9 +30,8 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
 
-# Langkah Pemasangan Config Global Mode
+# Langkah Pemasangan Config Online Global Mode
 
-## Config Online
 - Pada halaman awal aplikasi, pilih tab **Profile**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
@@ -67,4 +65,9 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - Jika yang terpilih adalah proxy **DIRECT** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active3.jpg" border="0">
+
+
+# Langkah Pemasangan Config Online Rule Mode
+
+- Coming Soon
 
