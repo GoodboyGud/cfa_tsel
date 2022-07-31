@@ -78,20 +78,20 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CARA UPDATE MANUAL CONFIG ONLINE GLOBAL MAUPUN RULE MODE
 
-1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
+## 1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-2. Klik tombol refresh hingga di status profile berubah menjadi **recently**
+## 2. Klik tombol refresh hingga di status profile berubah menjadi **recently**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
-3. Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update **_proxy/rule provider_** (Tidak termasuk config utama)
+## 3. Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update **_proxy/rule provider_** (Tidak termasuk config utama)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
 
-4. Klik tombol refresh hingga di status providers berubah menjadi **recently**
+## 4. Klik tombol refresh hingga di status providers berubah menjadi **recently**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
-5. Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
+## Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
