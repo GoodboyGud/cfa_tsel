@@ -20,7 +20,29 @@ proxies:
   password: 23683e40-1078-11ed-aec6-1239d0255272
   udp: true
   sni: spotify.com
+  skip-cert-verify: true 
+#31-07
+- name: 🇮🇩 GO-BIZBANT
+  server: gamemax.prem.my.id
+  port: 443
+  type: trojan
+  password: a8a4b0d0-107b-11ed-bbb1-1239d0255272
   skip-cert-verify: true
+  sni: id5-trojan.bonds.id
+  network: ws
+  ws-opts:
+    path: /howdy
+    headers:
+      Host: id5-trojan.bonds.id
+  udp: true
+- name: 🇮🇩 GF-BIZBANT
+  type: trojan
+  server: id5-trojan.bonds.id
+  port: 443
+  password: a8a4b0d0-107b-11ed-bbb1-1239d0255272
+  udp: true
+  sni: spotify.com
+  skip-cert-verify: true  
 #31-07
 - name: 🇮🇩 GO-ATHA
   server: gamemax.prem.my.id
