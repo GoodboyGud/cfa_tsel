@@ -76,7 +76,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 
 
-# CARA UPDATE MANUAL CONFIG GLOBAL MAUPUN RULE MODE
+# CARA UPDATE MANUAL CONFIG ONLINE GLOBAL MAUPUN RULE MODE
 
 1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
