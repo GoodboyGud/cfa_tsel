@@ -18,34 +18,34 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ## Hal Pertama Yang Perlu Disetting
 
-- Pada halaman awal aplikasi, pilih tab **Settings**
+1. Pada halaman awal aplikasi, pilih tab **Settings**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting1.jpg" border="0">
 
-- Kemudian pilih tab **Override**
+2. Kemudian pilih tab **Override**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting2.jpg" border="0">
 
-- Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
+3. Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting3.jpg" border="0">
 
-- Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
+4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
 
 # LANGKAH PEMASANGAN CONFIG ONLINE GLOBAL MODE
 
-## 1. Pada halaman awal aplikasi, pilih tab **Profile**
+## 1. Pada halaman awal aplikasi, pilih tab **_Profile_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
 
-## 2. Klik tanda tambah pada pojok kanan atas, dan pilih **URL**
+## 2. Klik tanda tambah pada pojok kanan atas, dan pilih **_URL_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import2.jpg" border="0">
 
-- Isi kolom **Name** sesuai keinginan anda
-- Pada kolom **URL** isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/Gboy_Global.yaml
-- Opsi **Auto Update** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
+- Isi kolom **_Name_** sesuai keinginan anda
+- Pada kolom **_URL_** isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/Gboy_Global.yaml
+- Opsi **_Auto Update_** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import3.jpg" border="0">
 
@@ -57,15 +57,15 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import5.jpg" border="0">
 
-## 5. Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik **Tap to start** hingga berubah menjadi **Running**
+## 5. Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik **_Tap to start_** hingga berubah menjadi **_Running_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active1.jpg" border="0">
 
-## 6. Pastikan Global Proxy tidak terpilih **Direct** dengan cara klik tab **Proxy**
+## 6. Pastikan Global Proxy tidak terpilih **_Direct_** dengan cara klik tab **_Proxy_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active2.jpg" border="0">
 
-## 7. Jika yang terpilih adalah proxy **DIRECT** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
+## 7. Jika yang terpilih adalah proxy **_DIRECT_** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active3.jpg" border="0">
 
@@ -78,11 +78,11 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CARA UPDATE MANUAL CONFIG ONLINE GLOBAL MAUPUN RULE MODE
 
-## 1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
+## 1. Pilih tab **_Profile_**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-## 2. Klik tombol refresh hingga di status profile berubah menjadi **recently**
+## 2. Klik tombol refresh hingga di status profile berubah menjadi **_recently_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
@@ -90,7 +90,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
 
-## 4. Klik tombol refresh hingga di status providers berubah menjadi **recently**
+## 4. Klik tombol refresh hingga di status providers berubah menjadi **_recently_**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
