@@ -7,10 +7,12 @@
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
 - [Cara Update Manual Config Online global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
 
+
 # Support Me
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - [Telegram](https://t.me/AfthonPc)
 - [Whatsapp](https://wa.me/6285334821022)
+
 
 # Clash For Android
 
@@ -73,9 +75,10 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - Coming Soon
 
 
+
 # Cara Update Manual Config Online global/Rule Mode
 
-- Pilih tab **Profile**. Hal ini bertujuan untuk update config utama **(_Tidak termasuk proxy/rule provider_)**
+1. Pilih tab **Profile**. Hal ini bertujuan untuk update config utama **(_Tidak termasuk proxy/rule provider_)**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
