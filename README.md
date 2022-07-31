@@ -2,10 +2,13 @@
 
 - [Support Me](#support-me)
 - [Clash For Android](#clash-for-android)
-  - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
+  - [Features](#features)
+  - [Ketentuan Penggunaan](#ketentuan-penggunaan)
+- [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
 - [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
 - [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
+- [Thanks To](thanks-to)
 
 
 # SUPPORT ME
@@ -16,21 +19,33 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CLASH FOR ANDROID
 
-## Hal Pertama Yang Perlu Disetting
+## FEATURES
 
-1. Pada halaman awal aplikasi, pilih tab **Settings**
+- Config VIP. Yang artinya tinggal pakai tidak perlu repot-repot membuat akun dan format clash
+- Proxy provider maupun Rule provider akan kami update dalam kurun 1-3 kali dalam seminggu tergantung kesibukan dan kesempatan
+- Setiap kami melakukan update pada repository github, pengguna config ini jg akan ikut terupdate baik akun vpn maupun rule-nya. Dengan catatan tetap melakukan update manual [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
+- Bantuan materi maupun doa sangat kami harapkan agar kami tetap semangat melakukan update
+
+## KETENTUAN PENGGUNAAN
+
+- Repository config ini hanya ditujukan untuk bebrapa orang tertentu yang telah kami tentukan
+- Config tidak untuk umum. Karena mengingat akun vpn dalam config ini bakal update otomatis, sehingga jika di share akun akan tergangbang dan down
+
+# HAL PERTAMA YANG PERLU DISETTING
+
+## 1. Pada halaman awal aplikasi, pilih tab **Settings**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting1.jpg" border="0">
 
-2. Kemudian pilih tab **Override**
+## 2. Kemudian pilih tab **Override**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting2.jpg" border="0">
 
-3. Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
+## 3. Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting3.jpg" border="0">
 
-4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
+## 4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
 
 # LANGKAH PEMASANGAN CONFIG ONLINE GLOBAL MODE
@@ -95,3 +110,12 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
 ## Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
+
+
+# THANKS TO
+
+- ALLAH SWT
+- KELUARGA
+- SEMUANYA YANG TELAH MENSUPORT SAYA AGAR PROJECT INI TERUS BERLANJUT
+- SEMUANYA YANG TELAH MEMBANTU DALAM BENTUK MATERI MAUPUN DOA
+- 
