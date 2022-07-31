@@ -8,7 +8,7 @@
 - [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
 - [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
-- [Thanks To](thanks-to)
+- [Thanks To](#thanks-to)
 
 
 # SUPPORT ME
