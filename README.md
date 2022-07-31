@@ -3,9 +3,9 @@
 - [Support Me](#support-me)
 - [Clash For Android](#clash-for-android)
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
-  - [Langkah Pemasangan Config Global Mode](#langkah-pemasangan-config-global-mode)
-    - [Config Online](#config-online)
-    - [Config Offline](#config-offline)
+- [Langkah Pemasangan Config Global Mode](#langkah-pemasangan-config-global-mode)
+  - [Config Online](#config-online)
+  - [Config Offline](#config-offline)
 
 # Support Me
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
