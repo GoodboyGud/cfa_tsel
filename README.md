@@ -35,7 +35,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # Langkah Pemasangan Config Online Global Mode
 
-## Pada halaman awal aplikasi, pilih tab **Profile**
+## 1. Pada halaman awal aplikasi, pilih tab **Profile**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
 
