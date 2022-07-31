@@ -11,11 +11,11 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - [Whatsapp](https://wa.me/6285334821022)
 
 # Clash For Android
+
 ## Hal Pertama Yang Perlu Disetting
 * Pada halaman awal aplikasi, pilih tab **Settings**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting1.jpg" border="0">
-## Langkah Pemasangan Url Config
 
 * kemudian pilih tab **Override**
 
@@ -26,5 +26,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting3.jpg" border="0">
 
 * Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
+
+## Langkah Pemasangan Url Config
 
 
