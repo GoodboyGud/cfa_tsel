@@ -45,7 +45,7 @@ proxies:
   skip-cert-verify: true
 #31-07  
 - name: 🇸🇬 GR-CONTABO
-  server: contabo1.rockstartun.xyz
+  server: sg-contabo1.service-bestvpn.xyz
   port: 443
   type: vmess
   uuid: cc045af3-b6fa-4754-bbbf-b1efc626b4d6
@@ -54,19 +54,6 @@ proxies:
   network: grpc
   tls: true
   servername: spotify.com
-  skip-cert-verify: true
-  grpc-opts:
-    grpc-service-name: v2ray-vmess-grpc
-- name: 🇸🇬 GR-CDN-CONTABO
-  server: gamemax.prem.my.id
-  port: 443
-  type: vmess
-  uuid: cc045af3-b6fa-4754-bbbf-b1efc626b4d6
-  alterId: 0
-  cipher: auto
-  network: grpc
-  tls: true
-  servername: contabo1.rockstartun.xyz
   skip-cert-verify: true
   grpc-opts:
     grpc-service-name: v2ray-vmess-grpc
