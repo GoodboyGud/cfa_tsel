@@ -98,9 +98,9 @@ proxies:
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: uninet-idj.sshin.net
+  servername: uninet2.rockstartun.xyz
   network: ws
   ws-opts:
     path: /vmess/
     headers:
-      Host: uninet-idj.sshin.net
+      Host: uninet2.rockstartun.xyz
