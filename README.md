@@ -19,14 +19,14 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CLASH FOR ANDROID
 
-## FEATURES
+## Features
 
 - Config VIP. Yang artinya tinggal pakai tidak perlu repot-repot membuat akun dan format clash
 - Proxy provider maupun Rule provider akan kami update dalam kurun 1-3 kali dalam seminggu tergantung kesibukan dan kesempatan
 - Setiap kami melakukan update pada repository github, pengguna config ini jg akan ikut terupdate baik akun vpn maupun rule-nya. Dengan catatan tetap melakukan update manual [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 - Bantuan materi maupun doa sangat kami harapkan agar kami tetap semangat melakukan update
 
-## KETENTUAN PENGGUNAAN
+## Ketetntuan Penggunaan
 
 - Repository config ini hanya ditujukan untuk bebrapa orang tertentu yang telah kami tentukan
 - Config tidak untuk umum. Karena mengingat akun vpn dalam config ini bakal update otomatis, sehingga jika di share akun akan tergangbang dan down
