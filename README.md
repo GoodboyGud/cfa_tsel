@@ -109,7 +109,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
-## Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
+Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
 
 
 # THANKS TO
@@ -118,4 +118,3 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - KELUARGA
 - SEMUANYA YANG TELAH MENSUPORT SAYA AGAR PROJECT INI TERUS BERLANJUT
 - SEMUANYA YANG TELAH MEMBANTU DALAM BENTUK MATERI MAUPUN DOA
-- 
