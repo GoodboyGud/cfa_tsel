@@ -35,7 +35,7 @@ proxies:
     headers:
       Host: id5-trojan.bonds.id
   udp: true
-- name: 🇮🇩 GF-BIZBANT
+- name: 🇮🇩 GF-BANTEN
   type: trojan
   server: id5-trojan.bonds.id
   port: 443
