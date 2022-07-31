@@ -15,11 +15,12 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 # Clash For Android
 
 ## Hal Pertama Yang Perlu Disetting
+
 - Pada halaman awal aplikasi, pilih tab **Settings**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting1.jpg" border="0">
 
-- kemudian pilih tab **Override**
+- Kemudian pilih tab **Override**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting2.jpg" border="0">
 
@@ -29,12 +30,19 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
+
 # Langkah Pemasangan Config Global Mode
 
 ## Config Online
 - Pada halaman awal aplikasi, pilih tab **Profile**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import1.jpg" border="0">
+
+- Klik tanda tambah pada pojok kanan atas, dan pilih **URL**
+
+<img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/import2.jpg" border="0">
+
+- Isi kolom **Name** sesuai keinginan anda. Kemudian pada kolom **URL** isi dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/Gboy_Global.yaml
 
 
 
