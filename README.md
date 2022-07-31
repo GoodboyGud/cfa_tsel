@@ -33,7 +33,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
 
-# Langkah Pemasangan Config Online Global Mode
+# LANGKAH PEMASANGAN CONFIG ONLINE GLOBAL MODE
 
 ## 1. Pada halaman awal aplikasi, pilih tab **Profile**
 
