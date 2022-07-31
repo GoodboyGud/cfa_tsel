@@ -20,7 +20,7 @@ proxies:
   password: 23683e40-1078-11ed-aec6-1239d0255272
   udp: true
   sni: spotify.com
-  skip-cert-verify: true 
+  skip-cert-verify: true
 #31-07
 - name: 🇮🇩 GO-ATHA
   server: gamemax.prem.my.id
@@ -43,6 +43,33 @@ proxies:
   udp: true
   sni: spotify.com
   skip-cert-verify: true
+#31-07  
+- name: 🇸🇬 GR-CONTABO
+  server: sg1.jupitervpn.me
+  port: 443
+  type: vmess
+  uuid: cc045af3-b6fa-4754-bbbf-b1efc626b4d6
+  alterId: 0
+  cipher: auto
+  network: grpc
+  tls: true
+  servername: spotify.com
+  skip-cert-verify: true
+  grpc-opts:
+    grpc-service-name: v2ray-vmess-grpc
+- name: 🇸🇬 GR-CDN-CONTABO
+  server: gamemax.prem.my.id
+  port: 443
+  type: vmess
+  uuid: cc045af3-b6fa-4754-bbbf-b1efc626b4d6
+  alterId: 0
+  cipher: auto
+  network: grpc
+  tls: true
+  servername: sg1.jupitervpn.me
+  skip-cert-verify: true
+  grpc-opts:
+    grpc-service-name: v2ray-vmess-grpc     
 #31-07
 - name: 🇸🇬 VMF-AMP
   type: vmess
@@ -60,3 +87,20 @@ proxies:
     path: /fastssh/ewrrt/62e5e779708e5/
     headers:
       Host: sg-atha.v2-ray.com
+#31-07
+- name: 🇮🇩 VM-UNINET
+  type: vmess
+  server: gamemax.prem.my.id
+  port: 443
+  uuid: f0bc7227-b951-4e3e-856f-36bbcdf6bc03
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: id2.jupitervpn.me
+  network: ws
+  ws-opts:
+    path: /vmess/
+    headers:
+      Host: id2.jupitervpn.me      
