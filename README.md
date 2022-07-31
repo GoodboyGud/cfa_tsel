@@ -29,8 +29,8 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 * Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
-## Langkah Pemasangan Config Global Mode
+# Langkah Pemasangan Config Global Mode
 
-### Config Online
+## Config Online
 
 
