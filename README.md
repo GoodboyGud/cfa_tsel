@@ -5,6 +5,7 @@
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
 - [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
+- [Cara Update Manual Config Online global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
 
 # Support Me
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
@@ -71,3 +72,17 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - Coming Soon
 
+
+# Cara Update Manual Config Online global/Rule Mode
+
+- Pilih tab **Profile**. Hal ini bertujuan untuk update config utama **(_Tidak termasuk proxy/rule provider_)**
+
+<img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
+
+- Klik tombol refresh hingga di status bar HP anda muncul pemberitahuan **update succesfully**
+
+<img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
+
+- Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update proxy/rule provider **(_Tidak termasuk config utama_)**
+
+<img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
