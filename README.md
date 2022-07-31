@@ -111,7 +111,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
 
-!!! Kelima step diatas perlu dilakukan agar _config utama_ maupun _proxy/rule provider_ dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya !!!
+!!! Kelima step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya !!!
 
 ## 6. Jika terjadi Kegagalan saat update. Cukup restart aplikasi dan ulangi update manualnya
 
