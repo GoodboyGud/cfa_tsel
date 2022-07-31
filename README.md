@@ -3,7 +3,9 @@
 - [Support Me](#support-me)
 - [Clash For Android](#clash-for-android)
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
-  - [Langkah Pemasangan Url Config](#langkah-pemasangan-url-config)
+  - [Langkah Pemasangan Config Global Mode](#langkah-pemasangan-config-global-mode)
+    - [1. Config Online](#1. config-online)
+    - [2. Config Offline](#2. config-offline)
 
 # Support Me
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
@@ -27,6 +29,8 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 * Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
-## Langkah Pemasangan Url Config
+## Langkah Pemasangan Config Global Mode
+
+### 1. Config Online
 
 
