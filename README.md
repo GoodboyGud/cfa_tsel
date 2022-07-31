@@ -93,13 +93,13 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CARA UPDATE MANUAL CONFIG ONLINE GLOBAL MAUPUN RULE MODE
 
-## 1. Diarenakan update secara manual, maka pastikan Clash For Android dalam keadaan **_Running_** dan terhubung ke internet
+## 1. Pada saat melakukan update secara manual, pastikan Clash For Android dalam keadaan _Running_ dan terhubung ke internet. Dikarenakan pada tahap ini membutuhkan koneksi untuk menyinkronkan dengan repository update
 
-## 2. Pilih tab **_Profile_**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
+## 2. Selanjutnya pilih tab **_Profile_**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-## 3. Klik tombol refresh hingga di status profile berubah menjadi **_recently_**
+## 3. Klik tombol refresh hingga di status profile berubah menjadi **_recently_**(#klik-tombol-refresh)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
