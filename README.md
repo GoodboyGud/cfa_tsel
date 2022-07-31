@@ -15,19 +15,19 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 # Clash For Android
 
 ## Hal Pertama Yang Perlu Disetting
-* Pada halaman awal aplikasi, pilih tab **Settings**
+- Pada halaman awal aplikasi, pilih tab **Settings**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting1.jpg" border="0">
 
-* kemudian pilih tab **Override**
+- kemudian pilih tab **Override**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting2.jpg" border="0">
 
-* Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
+- Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/setting3.jpg" border="0">
 
-* Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
+- Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
 
 # Langkah Pemasangan Config Global Mode
 
