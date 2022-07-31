@@ -98,9 +98,9 @@ proxies:
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: uninet-idj.service-bestvpn.xyz
+  servername: uninet-idj.sshin.net
   network: ws
   ws-opts:
     path: /vmess/
     headers:
-      Host: uninet-idj.service-bestvpn.xyz
+      Host: uninet-idj.sshin.net
