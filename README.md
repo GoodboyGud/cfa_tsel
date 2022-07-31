@@ -85,7 +85,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/active3.jpg" border="0">
 
 
-# Langkah Pemasangan Config Online Rule Mode
+# LANGKAH PEMASANGAN CONFIG ONLINE RULE MODE
 
 - Coming Soon
 
