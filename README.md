@@ -78,14 +78,20 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # Cara Update Manual Config Online global/Rule Mode
 
-1. Pilih tab **Profile**. Hal ini bertujuan untuk update config utama **(_Tidak termasuk proxy/rule provider_)**
+1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** **(Tidak termasuk proxy/rule provider)**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update1.jpg" border="0">
 
-- Klik tombol refresh hingga di status bar HP anda muncul pemberitahuan **update succesfully**
+2. Klik tombol refresh hingga di status profile menjadi **recently**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update2.jpg" border="0">
 
-- Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update proxy/rule provider **(_Tidak termasuk config utama_)**
+3. Kembali ke halaman awal lagi dan pilih tab **Providers**. Hal ini bertujuan untuk update **_proxy/rule provider_** **(Tidak termasuk config utama)**
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update3.jpg" border="0">
+
+4. Klik tombol refresh hingga di status providers menjadi **recently**
+
+<img src="https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/assets/update4.jpg" border="0">
+
+5. Ke-empat step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya
