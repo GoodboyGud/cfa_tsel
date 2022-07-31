@@ -5,7 +5,7 @@
   - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)
 - [Langkah Pemasangan Config Online Global Mode](#langkah-pemasangan-config-online-global-mode)
 - [Langkah Pemasangan Config Online Rule Mode](#langkah-pemasangan-config-online-rule-mode)
-- [Cara Update Manual Config Online Global/Rule Mode](#cara-update-manual-config-online-global/rule-mode)
+- [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 
 
 # Support Me
@@ -76,7 +76,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 
 
-# **CARA UPDATE MANUAL CONFIG ONLINE GLOBAL/RULE MODE**
+# Cara Update Manual Config Online Global Maupun Rule Mode
 
 1. Pilih tab **Profile**. Hal ini bertujuan untuk update **_config utama_** (Tidak termasuk proxy/rule provider)
 
