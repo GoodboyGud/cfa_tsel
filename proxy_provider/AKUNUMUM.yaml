@@ -45,7 +45,7 @@ proxies:
   skip-cert-verify: true
 #31-07  
 - name: 🇸🇬 GR-CONTABO
-  server: sg1.jupitervpn.me
+  server: contabo-sg.service-bestvpn.xyz
   port: 443
   type: vmess
   uuid: cc045af3-b6fa-4754-bbbf-b1efc626b4d6
@@ -66,10 +66,10 @@ proxies:
   cipher: auto
   network: grpc
   tls: true
-  servername: sg1.jupitervpn.me
+  servername: contabo-sg.service-bestvpn.xyz
   skip-cert-verify: true
   grpc-opts:
-    grpc-service-name: v2ray-vmess-grpc     
+    grpc-service-name: v2ray-vmess-grpc
 #31-07
 - name: 🇸🇬 VMF-AMP
   type: vmess
@@ -98,9 +98,9 @@ proxies:
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: id2.jupitervpn.me
+  servername: uninet-idj.service-bestvpn.xyz
   network: ws
   ws-opts:
     path: /vmess/
     headers:
-      Host: id2.jupitervpn.me      
+      Host: uninet-idj.service-bestvpn.xyz
