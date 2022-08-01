@@ -2,7 +2,7 @@ proxy-providers:
   PG_UMUM:
     type: http
     path: "./proxy_provider/AKUNUMUM.yaml"
-    url: https://raw.githubusercontent.com/GoodboyGud/CFA_TSEL_CLIENT/main/proxy_provider/AKUNUMUM.yaml
+    url: https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/proxy_provider/AKUNUMUM.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
