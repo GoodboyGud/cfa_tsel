@@ -28,7 +28,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - Setiap kami melakukan update pada repository github, pengguna config ini jg akan ikut terupdate baik akun vpn maupun rule-nya. Dengan catatan tetap melakukan update manual minimal sekali dalam sehari. [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 - Bantuan materi maupun doa sangat kami harapkan agar kami tetap semangat melakukan update
 
-## Ketetntuan Penggunaan
+## Ketentuan Penggunaan
 
 - Repository config ini hanya ditujukan untuk bebrapa orang tertentu yang telah kami tentukan
 - Config tidak untuk umum. Karena mengingat akun vpn dalam config ini bakal update otomatis, sehingga jika di share akun akan tergangbang dan down
