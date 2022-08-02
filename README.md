@@ -39,24 +39,24 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting1.jpg" border="0">
 
-## 2. Kemudian pilih tab **Override**
+## 2. Kemudian pilih tab `Override`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting2.jpg" border="0">
 
-## 3. Pada menu **Override** tadi, scroll kebawah hingga berada pada tab **Mode**. Pastikan anda mengatur mode yang semula **Do not modify** menjadi **Global Mode**
+## 3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula `Do not modify` menjadi `Global Mode`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting3.jpg" border="0">
 
-## 4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu **Override** tidak perlu diubah karena sudah include dalam config
+## 4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
 
 
 # LANGKAH PEMASANGAN CONFIG ONLINE GLOBAL MODE
 
-## 1. Pada halaman awal aplikasi, pilih tab **_Profile_**
+## 1. Pada halaman awal aplikasi, pilih tab `_Profile_`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import1.jpg" border="0">
 
-## 2. Klik tanda tambah pada pojok kanan atas, dan pilih **_URL_**
+## 2. Klik tanda tambah pada pojok kanan atas, dan pilih `_URL_`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import2.jpg" border="0">
 
