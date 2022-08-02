@@ -62,9 +62,9 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - Isi kolom `Name` sesuai keinginan anda
 - Pada kolom `URL` isi/paste dg link repository config yaitu:
-  ```sh
-  https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/Gboy_Global.yaml
-  ```
+```sh
+https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/Gboy_Global.yaml
+```
 - Opsi `Auto Update` kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import3.jpg" border="0">
