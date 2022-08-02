@@ -43,7 +43,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting2.jpg" border="0">
 
-## 3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula `Do not modify` menjadi `Global Mode`
+## 3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting3.jpg" border="0">
 
