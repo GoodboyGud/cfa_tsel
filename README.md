@@ -60,9 +60,9 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import2.jpg" border="0">
 
-- Isi kolom **_Name_** sesuai keinginan anda
-- Pada kolom **_URL_** isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/Gboy_Global.yaml
-- Opsi **_Auto Update_** kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
+- Isi kolom `Name` sesuai keinginan anda
+- Pada kolom `URL` isi/paste dg link repository config yaitu: https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/Gboy_Global.yaml
+- Opsi `Auto Update` kami sarankan untuk di nonaktifkan/disable. Karena fitur ini berjalan dengan baik jika sim card memiliki kuota regular. Untuk cara update manualnya akan kami jelaskan langkah-langkahnya pada [Cara Update Manual Config Online Global Maupun Rule Mode](#cara-update-manual-config-online-global-maupun-rule-mode)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import3.jpg" border="0">
 
@@ -74,15 +74,15 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import5.jpg" border="0">
 
-## 5. Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik **_Tap to start_** hingga berubah menjadi **_Running_**
+## 5. Step pembuatan profile sudah selesai. Selanjutnya tinggal konekkan denga cara klik `Tap to start` hingga berubah menjadi `Running`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/active1.jpg" border="0">
 
-## 6. Pastikan Global Proxy tidak terpilih **_Direct_** dengan cara klik tab **_Proxy_**
+## 6. Pastikan Global Proxy tidak terpilih `Direct` dengan cara klik tab `Proxy`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/active2.jpg" border="0">
 
-## 7. Jika yang terpilih adalah proxy **_DIRECT_** maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
+## 7. Jika yang terpilih adalah proxy `DIRECT` maka ganti ke salah satu grub proxy pada kolom persegi seperti gambar dibawah ini
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/active3.jpg" border="0">
 
@@ -95,25 +95,25 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # CARA UPDATE MANUAL CONFIG ONLINE GLOBAL MAUPUN RULE MODE
 
-## 1. Pada saat melakukan update secara manual, pastikan Clash For Android dalam keadaan _Running_ dan terhubung ke internet. Dikarenakan pada tahap ini membutuhkan koneksi untuk menyinkronkan dengan repository update
+## 1. Pada saat melakukan update secara manual, pastikan Clash For Android dalam keadaan `Running` dan terhubung ke internet. Dikarenakan pada tahap ini membutuhkan koneksi untuk menyinkronkan dengan repository update
 
-## 2. Selanjutnya pilih tab _Profile_. Hal ini bertujuan untuk update _config utama_ (Tidak termasuk proxy/rule provider)
+## 2. Selanjutnya pilih tab `Profile`. Hal ini bertujuan untuk update `config utama` (Tidak termasuk proxy/rule provider)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/update1.jpg" border="0">
 
-## 3. Klik tombol refresh hingga di status profile berubah menjadi _recently_
+## 3. Klik tombol refresh hingga di status profile berubah menjadi `recently`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/update2.jpg" border="0">
 
-## 4. Kembali ke halaman awal lagi dan pilih tab _Providers_. Hal ini bertujuan untuk update **_proxy/rule provider_** (Tidak termasuk config utama)
+## 4. Kembali ke halaman awal lagi dan pilih tab `Providers`. Hal ini bertujuan untuk update `proxy/rule provider` (Tidak termasuk config utama)
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/update3.jpg" border="0">
 
-## 5. Klik tombol refresh hingga di status providers berubah menjadi _recently_
+## 5. Klik tombol refresh hingga di status providers berubah menjadi `recently`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/update4.jpg" border="0">
 
-!!! Kelima step diatas perlu dilakukan agar **_config utama_** maupun **_proxy/rule provider_** dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya !!!
+!!! Kelima step diatas perlu dilakukan agar `config utama` maupun `proxy/rule provider` dapat terupdate secara baik sesuai dengan repository config yang kami update setiap minggunya !!!
 
 ## 6. Jika terjadi Kegagalan saat update. Cukup restart aplikasi dan ulangi update manualnya
 
