@@ -35,7 +35,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # HAL PERTAMA YANG PERLU DISETTING
 
-## 1. Pada halaman awal aplikasi, pilih tab **Settings**
+## 1. Pada halaman awal aplikasi, pilih tab `Settings`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/setting1.jpg" border="0">
 
