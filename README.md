@@ -52,11 +52,11 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # LANGKAH PEMASANGAN CONFIG ONLINE GLOBAL MODE
 
-## 1. Pada halaman awal aplikasi, pilih tab `_Profile_`
+## 1. Pada halaman awal aplikasi, pilih tab `Profile`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import1.jpg" border="0">
 
-## 2. Klik tanda tambah pada pojok kanan atas, dan pilih `_URL_`
+## 2. Klik tanda tambah pada pojok kanan atas, dan pilih `URL`
 
 <img src="https://raw.githubusercontent.com/GoodboyGud/cfa_tsel/main/assets/import2.jpg" border="0">
 
