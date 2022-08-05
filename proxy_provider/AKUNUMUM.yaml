@@ -4,7 +4,7 @@ proxies:
   server: gamemax.prem.my.id
   port: 443
   type: trojan
-  password: 23683e40-1078-11ed-aec6-1239d0255272
+  password: 87a9af30-14b2-11ed-b360-1239d0255272
   skip-cert-verify: true
   sni: sg1-trojan.bonds.id
   network: ws
@@ -17,7 +17,7 @@ proxies:
   type: trojan
   server: sg1-trojan.bonds.id
   port: 443
-  password: 23683e40-1078-11ed-aec6-1239d0255272
+  password: 87a9af30-14b2-11ed-b360-1239d0255272
   udp: true
   sni: spotify.com
   skip-cert-verify: true
