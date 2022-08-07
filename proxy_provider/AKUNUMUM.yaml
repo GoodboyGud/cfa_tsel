@@ -40,7 +40,7 @@ proxies:
   server: gamemax.prem.my.id
   port: 443
   type: trojan
-  password: 1b43902d-00ce-4dce-bbb3-a45bc527af55
+  password: c3ccc877-eafb-44a4-b9c1-12e46e4d3863
   skip-cert-verify: true
   sni: id-atha3.service-bestvpn.xyz
   network: ws
@@ -53,7 +53,7 @@ proxies:
   type: trojan
   server: id-atha3.service-bestvpn.xyz
   port: 443
-  password: 1b43902d-00ce-4dce-bbb3-a45bc527af55
+  password: c3ccc877-eafb-44a4-b9c1-12e46e4d3863
   udp: true
   sni: spotify.com
   skip-cert-verify: true
@@ -62,7 +62,7 @@ proxies:
   type: vmess
   server: gamemax.prem.my.id
   port: 443
-  uuid: b80925d6-40fa-4161-9e32-3550965527fd
+  uuid: 698f55cc-d74a-4c90-bf69-973b3b67674e
   alterId: 0
   cipher: auto
   udp: true
@@ -71,7 +71,7 @@ proxies:
   servername: sg-atha.v2-ray.com
   network: ws
   ws-opts:
-    path: /fastssh/ewrrt/62e5e779708e5/
+    path: /fastssh/saadsd/62ef727436d72/
     headers:
       Host: sg-atha.v2-ray.com
 #31-07
