@@ -4,7 +4,7 @@ proxies:
   server: gamemax.prem.my.id
   port: 443
   type: trojan
-  password: 87a9af30-14b2-11ed-b360-1239d0255272
+  password: 1be4cbc0-1f03-11ed-9882-1239d0255272
   skip-cert-verify: true
   sni: sg1-trojan.bonds.id
   network: ws
@@ -17,7 +17,7 @@ proxies:
   type: trojan
   server: sg1-trojan.bonds.id
   port: 443
-  password: 87a9af30-14b2-11ed-b360-1239d0255272
+  password: 1be4cbc0-1f03-11ed-9882-1239d0255272
   udp: true
   sni: spotify.com
   skip-cert-verify: true
@@ -36,24 +36,24 @@ proxies:
   grpc-opts:
     grpc-service-name: v2ray-vmess-grpc  
 #31-07
-- name: 🇮🇩 GO-ATHA
+- name: 🇮🇩 GO-HERZA
   server: gamemax.prem.my.id
   port: 443
   type: trojan
-  password: c3ccc877-eafb-44a4-b9c1-12e46e4d3863
+  password: 8c6afcd0-1f03-11ed-aa8a-1239d0255272
   skip-cert-verify: true
-  sni: id-atha3.service-bestvpn.xyz
+  sni: idtj-herza.bonds.id
   network: ws
   ws-opts:
     path: /websocket
     headers:
-      Host: id-atha3.service-bestvpn.xyz
+      Host: idtj-herza.bonds.id
   udp: true
-- name: 🇮🇩 GF-ATHA
+- name: 🇮🇩 GF-HERZA
   type: trojan
-  server: id-atha3.service-bestvpn.xyz
+  server: idtj-herza.bonds.id
   port: 443
-  password: c3ccc877-eafb-44a4-b9c1-12e46e4d3863
+  password: 8c6afcd0-1f03-11ed-aa8a-1239d0255272
   udp: true
   sni: spotify.com
   skip-cert-verify: true
@@ -62,7 +62,7 @@ proxies:
   type: vmess
   server: gamemax.prem.my.id
   port: 443
-  uuid: 698f55cc-d74a-4c90-bf69-973b3b67674e
+  uuid: c8e45d3f-3474-454e-8b91-cae482cc2a9a
   alterId: 0
   cipher: auto
   udp: true
@@ -71,23 +71,6 @@ proxies:
   servername: sg-atha.v2-ray.com
   network: ws
   ws-opts:
-    path: /fastssh/saadsd/62ef727436d72/
+    path: /fastssh/dfgds/62fe51142a41c/
     headers:
       Host: sg-atha.v2-ray.com
-#31-07
-- name: 🇮🇩 VM-UNINET
-  type: vmess
-  server: gamemax.prem.my.id
-  port: 443
-  uuid: f0bc7227-b951-4e3e-856f-36bbcdf6bc03
-  alterId: 0
-  cipher: auto
-  udp: true
-  tls: true
-  skip-cert-verify: true
-  servername: uninet2.rockstartun.xyz
-  network: ws
-  ws-opts:
-    path: /vmess/
-    headers:
-      Host: uninet2.rockstartun.xyz
